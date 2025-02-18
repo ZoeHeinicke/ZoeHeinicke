@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZoeHeinicke
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 📫 How to reach me: messgae me or email me at zoe@heinicke.org
 
 <!---
